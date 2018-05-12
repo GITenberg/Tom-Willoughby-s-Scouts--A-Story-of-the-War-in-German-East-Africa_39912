@@ -26,6 +26,8 @@ description: Working under the pseudonym "Herbert Strang," English authors Charl
   popular adventure stories intended for younger readers. Tom Willoughby's Scouts
   is a timeless action-adventure tale that will appeal to thrill-seeking readers of
   all ages.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39912#Tom-Willoughby-s-Scouts--A-Story-of-the-War-in-German-East-Africa
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2012-06-03'
 gutenberg_type: Text
