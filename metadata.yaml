@@ -1,0 +1,43 @@
+_repo: Tom-Willoughby-s-Scouts--A-Story-of-the-War-in-German-East-Africa_39912
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, Wal. (Walter)
+    - Paget, W. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+covers:
+- cover_type: archival
+  image_path: 39912-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: Working under the pseudonym "Herbert Strang," English authors Charles
+  James L'Estrange and George Herbert Ely paired up to pen a series of enduringly
+  popular adventure stories intended for younger readers. Tom Willoughby's Scouts
+  is a timeless action-adventure tale that will appeal to thrill-seeking readers of
+  all ages.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Africa -- Juvenile fiction'
+- !lcsh 'German East Africa -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Tom Willoughby''s Scouts: A Story of the War in German East Africa'
+url: http://www.gutenberg.org/ebooks/39912
